@@ -1,2 +1,2 @@
-#!/bin/bash
-chwon -hR vincent:staff .
+#!/bin/ bash
+chwon -hR staff:vincent .
